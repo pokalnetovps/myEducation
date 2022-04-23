@@ -16,8 +16,6 @@ public class L_20 {
         System.out.println(vectors[0].scalar(vectors[1]));
         System.out.println(vectors[0].mult(vectors[1]));
         System.out.println(vectors[0].diff(vectors[1]));
-
-
     }
 
 }
