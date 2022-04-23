@@ -1,8 +1,9 @@
 package Basic_1;
-
-import static java.lang.Math.*;
-
-public class l_11 {
+/*
+Заполните массив случайным числами и выведите максимальное, минимальное и среднее значение.
+Для генерации случайного числа используйте метод Math.random(), который возвращает значение в промежутке [0, 1].
+ */
+public class L_10 {
 
     public static final int DIMM = 3;
 
